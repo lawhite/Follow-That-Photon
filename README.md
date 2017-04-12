@@ -1,6 +1,8 @@
 # Follow-That-Photon
 Twine-based educational Choose Your Own Adventure game for DES EPO
 
+Current: 4/12/2017
+
 Below are the notes from the DES EPO meeting of 1/17/17
 
 Initial commit is two files:
